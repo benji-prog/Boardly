@@ -1,0 +1,13 @@
+# Operációs rendszer és szerkesztők
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.swp
+
+# Office ideiglenes fájlok (pl. nyitott Word-dokumentum mellett)
+~$*
+
+# A backend és a frontend saját .gitignore-ja kizárja a
+# vendor/, node_modules/, .env és build mappákat.
